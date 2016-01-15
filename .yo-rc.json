@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "jjzjhipsterswagger",
+    "packageName": "com.jjz.jhipster.swagger",
+    "packageFolder": "com/jjz/jhipster/swagger",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "f1ce35f97cd34152a803830552e0e148acb1397c",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
