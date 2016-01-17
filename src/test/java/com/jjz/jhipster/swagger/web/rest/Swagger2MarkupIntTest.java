@@ -1,6 +1,6 @@
 package com.jjz.jhipster.swagger.web.rest;
 
-import com.mycompany.myapp.Application;
+import com.jjz.jhipster.swagger.Application;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
